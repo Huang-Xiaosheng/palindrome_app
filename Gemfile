@@ -5,7 +5,7 @@ ruby '3.1.2'   # Change this line if you're using a different version.
 gem 'sinatra',            '2.2.2'
 gem 'puma',               '5.6.5'
 gem 'rerun',              '0.13.1'
-gem 'awesome_palindrome', '1.1.0'
+gem 'awesome_palindrome', '1.1.1'
 
 group :test do
   gem 'minitest',           '5.15.0'

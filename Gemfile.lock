@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ansi (1.5.0)
-    awesome_palindrome (1.1.0)
+    awesome_palindrome (1.1.1)
     builder (3.2.4)
     ffi (1.15.5)
     listen (3.7.1)
@@ -49,7 +49,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  awesome_palindrome (= 1.1.0)
+  awesome_palindrome (= 1.1.1)
   minitest (= 5.15.0)
   minitest-reporters (= 1.5.0)
   nokogiri (= 1.13.3)
