@@ -1,6 +1,6 @@
 # Palindrome App
 
-This is a simple Sinatra app. You can [visit it here](https://awesome-palindrome.herokuapp.com/).
+This is a simple Sinatra app. You can [visit it here](https://awesome-palindrome.onrender.com).
 
 ## Setup
 
